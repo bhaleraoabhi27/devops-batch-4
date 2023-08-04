@@ -1,0 +1,6 @@
+git inti
+git status
+git add
+git rm -cached
+git commit
+git log
