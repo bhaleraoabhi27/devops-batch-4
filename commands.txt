@@ -8,3 +8,4 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name ""
 git config --golbal user.email ""
+git checkout -b dev
